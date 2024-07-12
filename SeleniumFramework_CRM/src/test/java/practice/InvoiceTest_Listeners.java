@@ -1,6 +1,9 @@
 package practice;
 
+
 //Git Conflict check from user 1
+//Git Conflict check
+//>>>>>>> branch 'master' of https://github.com/NandiniBandela/Advance_Selenium.git
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
